@@ -1,0 +1,6 @@
+file=open("abc.txt","r")
+text=file.readlines()
+# print(text)
+print(text[3][0:5])
+# print(type(text))
+file.close()

@@ -1,0 +1,5 @@
+file=open("abc.txt","a")
+# data=int(input("Enter the text you want to write in the file"))
+file.write("1000")
+file.close()
+print("Data successfully added to abc.txt file")
