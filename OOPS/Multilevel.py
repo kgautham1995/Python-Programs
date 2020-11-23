@@ -5,7 +5,7 @@ class student:
 class school(student):
     def assign_school(self, school):
         self.sch=school
-class dip(student):
+class dip(school):
     def display(self):
         print(self.idno, self.name,self.sch)
 d=dip()
