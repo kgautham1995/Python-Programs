@@ -1,0 +1,13 @@
+{% extends 'index.html' %}
+{% block one %}
+    <table align="center" border="1">
+    <tr><th>Name</th><th>Designation</th><th>salary</th></tr>
+        {% for x in data %}
+            <tr><th>{{ x.name }}</th>
+                <th>{{ x.designation }}</th>
+                <th>{{ x.salary }}</th>
+
+            </tr>
+        {%  endfor %}
+    </table>
+{% endblock %}

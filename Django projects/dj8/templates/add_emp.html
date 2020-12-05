@@ -1,0 +1,14 @@
+{% extends 'index.html' %}
+{% block one %}
+    <table align="center">
+        <form action="/save/" method="post">
+            {% csrf_token %}
+    <tr><th><input type="text" placeholder="Name" required name="t1"></th></tr>
+    <tr><th><input type="text" placeholder="Designation" required name="t2"></th></tr>
+    <tr><th><input type="number" placeholder="Salary" required name="t3" min="10000"></th></tr>
+    <tr><th><button type="submit">save</button></th></tr>
+        </form>
+    </table>
+
+
+{% endblock %}

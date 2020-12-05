@@ -1,0 +1,15 @@
+{% extends 'common.html' %}
+{% block pwg %}
+
+    <table border="3" align="center">
+        <tr><th id="title" colspan="3">Programming With Gautam</th></tr>
+        <tr>
+            <th class="menu"><a href="/home/">Home</a></th>
+            <th class="menu"><a href="/add_emp/">Add Employee</a></th>
+            <th class="menu"><a href="/view_emp/">View Employee</a></th>
+        </tr>
+    <tr><th colspan="3">{% block one %}
+    {% endblock %}</th></tr>
+    </table>
+
+{% endblock %}

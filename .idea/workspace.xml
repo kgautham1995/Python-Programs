@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2401954-ac7c-41b8-b95b-514ed7cc8a9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SQLITE3/001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQLITE3/002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQLITE3/003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django projects/dj4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj4/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b2401954-ac7c-41b8-b95b-514ed7cc8a9a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +174,7 @@
     <session id="-1791537536">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="88" />
+          <entry key="project.closed" value="89" />
           <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="3" />
@@ -194,7 +188,7 @@
           <entry key="project.open.time.22" value="5" />
           <entry key="project.open.time.23" value="6" />
           <entry key="project.open.time.24" value="5" />
-          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.25" value="3" />
           <entry key="project.open.time.26" value="3" />
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.28" value="1" />
@@ -221,7 +215,7 @@
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="108" />
+          <entry key="project.opened" value="109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -290,7 +284,7 @@
         <entry file="file://$PROJECT_DIR$/SQLITE3/003.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -611,7 +605,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19054441" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19340974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -858,13 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://024df702-c1a9-4705-ad67-44af7343c467/schema/main/table/employee">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SQLITE3/001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -879,10 +866,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://024df702-c1a9-4705-ad67-44af7343c467/schema/main/table/employee">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SQLITE3/003.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>

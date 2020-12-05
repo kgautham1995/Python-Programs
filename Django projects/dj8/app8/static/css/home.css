@@ -1,0 +1,19 @@
+#title
+{
+    font-family: "Droid Sans Mono Dotted";
+    font-size: 60px;
+    color: red;
+}
+.menu
+{
+    font-family: "Droid Sans Mono";
+    font-size: medium;
+    color: green;
+}
+#copyright
+{
+    font-family: inherit;
+    font-size: small;
+    color: white;
+    background-color: black;
+}

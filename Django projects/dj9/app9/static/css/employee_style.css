@@ -1,0 +1,23 @@
+/*ID*/
+#title
+{
+    font-family: "Arial Black";
+    font-size: 60px;
+    color: yellow;
+}
+/*CLASS*/
+.menu
+{
+    font-family: David;
+    font-size: 30px;
+    color: blue;
+}
+/*ID*/
+#copyright
+{
+    font-family: David;
+    font-size: 10px;
+    font-style: oblique;
+    background-color: yellow;
+    color: red;
+}
