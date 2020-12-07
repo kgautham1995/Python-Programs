@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2401954-ac7c-41b8-b95b-514ed7cc8a9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Django projects/dj9/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj10/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj10/templates/add_course.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj10/templates/add_student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj10/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django projects/dj9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django projects/dj9/app9/static/css/employee_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj9/app9/static/css/employee_style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django projects/dj9/dj9/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj9/dj9/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django projects/dj9/templates/allEmployees.html" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj9/templates/allEmployees.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django projects/dj9/templates/common.html" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj9/templates/common.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQLITE3/003.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQLITE3/003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all/qrcode1.py" beforeDir="false" afterPath="$PROJECT_DIR$/all/qrcode1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +32,7 @@
     <SUITE FILE_PATH="coverage/Python_Programs$msg.coverage" NAME="msg Coverage Results" MODIFIED="1601714372310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$cric.coverage" NAME="cric Coverage Results" MODIFIED="1602419226881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$002__1_.coverage" NAME="002 (1) Coverage Results" MODIFIED="1604393760426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
-    <SUITE FILE_PATH="coverage/Python_Programs$003.coverage" NAME="003 Coverage Results" MODIFIED="1606639070158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE3" />
+    <SUITE FILE_PATH="coverage/Python_Programs$003.coverage" NAME="003 Coverage Results" MODIFIED="1607342259215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE3" />
     <SUITE FILE_PATH="coverage/Python_Programs$global_and_local.coverage" NAME="global and local Coverage Results" MODIFIED="1600861413522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pillow Package" />
     <SUITE FILE_PATH="coverage/Python_Programs$ccs2.coverage" NAME="ccs2 Coverage Results" MODIFIED="1602586951565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$functions.coverage" NAME="functions Coverage Results" MODIFIED="1600773395227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -59,6 +57,7 @@
     <SUITE FILE_PATH="coverage/Python_Programs$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1603851787375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
     <SUITE FILE_PATH="coverage/Python_Programs$Hyrarchical_and_hybrid.coverage" NAME="Hyrarchical and hybrid Coverage Results" MODIFIED="1605880707832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programs$Google_search.coverage" NAME="Google_search Coverage Results" MODIFIED="1605428431618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Demo2.coverage" NAME="Demo2 Coverage Results" MODIFIED="1607345054638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1605415548244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
     <SUITE FILE_PATH="coverage/Python_Programs$002.coverage" NAME="002 Coverage Results" MODIFIED="1606638769190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE3" />
     <SUITE FILE_PATH="coverage/Python_Programs$whileloops.coverage" NAME="whileloops Coverage Results" MODIFIED="1603274365531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -185,9 +184,9 @@
     <session id="-1791537536">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="90" />
+          <entry key="project.closed" value="91" />
           <entry key="project.open.time.0" value="7" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="6" />
@@ -198,7 +197,7 @@
           <entry key="project.open.time.21" value="12" />
           <entry key="project.open.time.22" value="5" />
           <entry key="project.open.time.23" value="6" />
-          <entry key="project.open.time.24" value="5" />
+          <entry key="project.open.time.24" value="6" />
           <entry key="project.open.time.25" value="3" />
           <entry key="project.open.time.26" value="3" />
           <entry key="project.open.time.27" value="2" />
@@ -226,7 +225,7 @@
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="110" />
+          <entry key="project.opened" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -238,7 +237,7 @@
           <entry key="jpg" value="13" />
           <entry key="ks" value="1" />
           <entry key="png" value="9" />
-          <entry key="py" value="228" />
+          <entry key="py" value="229" />
           <entry key="sql" value="6" />
           <entry key="sqlite_master" value="2" />
           <entry key="txt" value="4" />
@@ -250,7 +249,7 @@
           <entry key="HTML" value="4" />
           <entry key="Image" value="22" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="228" />
+          <entry key="Python" value="229" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="6" />
         </counts>
@@ -260,7 +259,7 @@
           <entry key="db" value="1" />
           <entry key="dummy" value="52" />
           <entry key="html" value="679" />
-          <entry key="py" value="27753" />
+          <entry key="py" value="29171" />
           <entry key="txt" value="195" />
         </counts>
       </usages-collector>
@@ -268,7 +267,7 @@
         <counts>
           <entry key="HTML" value="679" />
           <entry key="PLAIN_TEXT" value="248" />
-          <entry key="Python" value="27753" />
+          <entry key="Python" value="29171" />
         </counts>
       </usages-collector>
     </session>
@@ -276,19 +275,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo.html">
+        <entry file="file://$PROJECT_DIR$/Demo2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/123.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            <state relative-caret-position="556">
+              <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+              <folding>
+                <marker date="1607344966081" expanded="true" signature="126:133" ph="..." />
+                <marker date="1607344966081" expanded="true" signature="377:440" ph="..." />
+                <marker date="1607344966081" expanded="true" signature="823:1205" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -298,8 +293,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -316,7 +311,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/forelse.py" />
         <option value="$PROJECT_DIR$/whileelse.py" />
         <option value="$PROJECT_DIR$/wifipwd.py" />
         <option value="$PROJECT_DIR$/turtlediagram.py" />
@@ -367,6 +361,7 @@
         <option value="$PROJECT_DIR$/SQLITE3/003.py" />
         <option value="$PROJECT_DIR$/123.txt" />
         <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/Demo2.py" />
       </list>
     </option>
   </component>
@@ -376,9 +371,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="120" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="510" />
+    <option name="y" value="15" />
     <option name="width" value="1040" />
     <option name="height" value="690" />
   </component>
@@ -402,6 +397,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -409,11 +405,15 @@
               <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="SQLITE3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -421,7 +421,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="H:/Python Tutorials/Python 6 to 8pm/Database" />
+    <property name="last_opened_file_path" value="H:/DjangoParctice/Git/imh-Website-/imhbackend" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -444,7 +444,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.003">
+  <component name="RunManager" selected="Python.Demo2">
     <configuration name="001" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -511,7 +511,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="employeedb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -519,12 +519,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQLITE DB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLITE DB/employeedb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -556,19 +556,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.employeedb" />
       <item itemvalue="Python.insertdata" />
       <item itemvalue="Python.001" />
       <item itemvalue="Python.002" />
       <item itemvalue="Python.003" />
+      <item itemvalue="Python.Demo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Demo2" />
         <item itemvalue="Python.003" />
         <item itemvalue="Python.002" />
         <item itemvalue="Python.001" />
         <item itemvalue="Python.insertdata" />
-        <item itemvalue="Python.employeedb" />
       </list>
     </recent_temporary>
   </component>
@@ -596,8 +596,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124641836" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16332377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -631,9 +632,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/all/variable2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/all/variables1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -862,6 +860,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/123.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -869,10 +874,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
+    <entry file="file://$PROJECT_DIR$/Demo2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="556">
+          <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+          <folding>
+            <marker date="1607344966081" expanded="true" signature="126:133" ph="..." />
+            <marker date="1607344966081" expanded="true" signature="377:440" ph="..." />
+            <marker date="1607344966081" expanded="true" signature="823:1205" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
