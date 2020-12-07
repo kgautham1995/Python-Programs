@@ -7,3 +7,4 @@ for x in result:
     for y in x:
         print(y)
 conn.close()
+

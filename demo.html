@@ -1,0 +1,31 @@
+<!--Ajax: Asynconous Javascript and XML-->
+<html>
+<head>
+    <title>
+        Ajax calls with Programming with Gautam
+    </title>
+    <script>
+        function ajaxcall()
+        {
+            var x=new XMLHttpRequest();
+            x.onreadystatechange=function ()
+            {
+              if(this.readyState == 4 && this.status == 200)
+              {
+                  document.getElementById("1").innerHTML=this.responseText;
+              }
+            }
+            x.open("GET", "123.txt", true);
+            x.send();
+        }
+    </script>
+
+</head>
+<body align="center">
+<div id="1">
+<h1>Hello</h1>
+<h2>Welcome to my YouTube Channel Programming With Gautam</h2>
+click <button type="button" onclick="ajaxcall()">Here</button> to See the Magic
+</div>
+</body>
+</html>

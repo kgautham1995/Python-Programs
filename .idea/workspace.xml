@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2401954-ac7c-41b8-b95b-514ed7cc8a9a" name="Default Changelist" comment="" />
+    <list default="true" id="b2401954-ac7c-41b8-b95b-514ed7cc8a9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Django projects/dj9/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django projects/dj9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django projects/dj9/app9/static/css/employee_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj9/app9/static/css/employee_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django projects/dj9/dj9/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj9/dj9/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django projects/dj9/templates/allEmployees.html" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj9/templates/allEmployees.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django projects/dj9/templates/common.html" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj9/templates/common.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLITE3/003.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQLITE3/003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all/qrcode1.py" beforeDir="false" afterPath="$PROJECT_DIR$/all/qrcode1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,8 +185,8 @@
     <session id="-1791537536">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="89" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="90" />
+          <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.16" value="2" />
@@ -215,7 +226,7 @@
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="109" />
+          <entry key="project.opened" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -223,22 +234,22 @@
           <entry key="db" value="5" />
           <entry key="employee" value="2" />
           <entry key="employee1" value="1" />
-          <entry key="html" value="3" />
+          <entry key="html" value="4" />
           <entry key="jpg" value="13" />
           <entry key="ks" value="1" />
           <entry key="png" value="9" />
           <entry key="py" value="228" />
           <entry key="sql" value="6" />
           <entry key="sqlite_master" value="2" />
-          <entry key="txt" value="2" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="5" />
-          <entry key="HTML" value="3" />
+          <entry key="HTML" value="4" />
           <entry key="Image" value="22" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="Python" value="228" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="6" />
@@ -248,52 +259,36 @@
         <counts>
           <entry key="db" value="1" />
           <entry key="dummy" value="52" />
-          <entry key="py" value="27751" />
-          <entry key="txt" value="4" />
+          <entry key="html" value="679" />
+          <entry key="py" value="27753" />
+          <entry key="txt" value="195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="57" />
-          <entry key="Python" value="27751" />
+          <entry key="HTML" value="679" />
+          <entry key="PLAIN_TEXT" value="248" />
+          <entry key="Python" value="27753" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SQLITE3/001.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SQLITE3/002.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SQLITE3/003.py">
+        <entry file="file://$PROJECT_DIR$/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="306">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="das://024df702-c1a9-4705-ad67-44af7343c467/schema/main/table/employee">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
+        <entry file="file://$PROJECT_DIR$/123.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -304,6 +299,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -320,8 +316,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/while.py" />
-        <option value="$PROJECT_DIR$/whileloops.py" />
         <option value="$PROJECT_DIR$/forelse.py" />
         <option value="$PROJECT_DIR$/whileelse.py" />
         <option value="$PROJECT_DIR$/wifipwd.py" />
@@ -371,6 +365,8 @@
         <option value="$PROJECT_DIR$/SQLITE3/001.py" />
         <option value="$PROJECT_DIR$/SQLITE3/002.py" />
         <option value="$PROJECT_DIR$/SQLITE3/003.py" />
+        <option value="$PROJECT_DIR$/123.txt" />
+        <option value="$PROJECT_DIR$/demo.html" />
       </list>
     </option>
   </component>
@@ -413,11 +409,6 @@
               <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="SQLITE3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -427,6 +418,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="H:/Python Tutorials/Python 6 to 8pm/Database" />
@@ -605,7 +597,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19340974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124641836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -639,16 +631,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/all/demo1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all/turtlediagram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/all/variable2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -866,6 +848,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SQLITE3/003.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="das://024df702-c1a9-4705-ad67-44af7343c467/schema/main/table/employee">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -873,10 +862,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SQLITE3/003.py">
+    <entry file="file://$PROJECT_DIR$/123.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="102">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
