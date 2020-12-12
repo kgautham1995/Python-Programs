@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f9e82b1-798b-42f6-866a-492444d41018" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app11/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dj12/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dj12/.idea/dj12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dj12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dj12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dj12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dj12/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dj12/app12/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dj12/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dj10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dj10/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1132698670">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="75" />
+          <entry key="py" value="344" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="75" />
+          <entry key="Python" value="344" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="app11_studentmodel" value="2" />
+          <entry key="html" value="2" />
+          <entry key="py" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="2" />
+          <entry key="HTML" value="2" />
+          <entry key="Python" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dj11/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dj11/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="23" selection-end-column="45" />
+              <folding>
+                <element signature="e#628#660#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app11/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="15" column="81" lean-forward="true" selection-start-line="7" selection-end-line="15" selection-end-column="81" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app11/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="6" column="16" selection-end-line="6" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app11/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/django/db/models/fields/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="37" column="75" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="37" selection-end-column="75" />
+              <folding>
+                <element signature="e#2806#36589#0" />
+                <element signature="e#36623#38389#0" />
+                <element signature="e#38420#40583#0" />
+                <element signature="e#40635#41099#0" />
+                <element signature="e#41133#42208#0" />
+                <element signature="e#42259#47453#0" />
+                <element signature="e#47492#53795#0" />
+                <element signature="e#53829#58088#0" />
+                <element signature="e#58123#59896#0" />
+                <element signature="e#59932#60696#0" />
+                <element signature="e#60731#62961#0" />
+                <element signature="e#62993#64083#0" />
+                <element signature="e#64117#67004#0" />
+                <element signature="e#67048#67408#0" />
+                <element signature="e#67444#68271#0" />
+                <element signature="e#68314#71034#0" />
+                <element signature="e#71079#72031#0" />
+                <element signature="e#72076#72703#0" />
+                <element signature="e#72786#73034#0" />
+                <element signature="e#73114#73355#0" />
+                <element signature="e#73440#73692#0" />
+                <element signature="e#73727#74837#0" />
+                <element signature="e#74883#74984#0" />
+                <element signature="e#75015#75815#0" />
+                <element signature="e#75866#80738#0" />
+                <element signature="e#80772#81459#0" />
+                <element signature="e#81492#83578#0" />
+                <element signature="e#83609#85235#0" />
+                <element signature="e#85264#86688#0" />
+                <element signature="e#86722#87759#0" />
+                <element signature="e#87839#87995#0" />
+                <element signature="e#88056#88218#0" />
+                <element signature="e#88283#88449#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/django/db/models/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5780">
+              <caret line="403" column="6" selection-start-line="403" selection-start-column="6" selection-end-line="403" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/django/db/models/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-306">
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="13" column="26" selection-end-line="22" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dj11/settings.py" />
+        <option value="$PROJECT_DIR$/dj11/urls.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/app11/views.py" />
+        <option value="$PROJECT_DIR$/app11/forms.py" />
+        <option value="$PROJECT_DIR$/app11/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="713" />
+    <option name="width" value="734" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dj11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dj11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dj11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dj11" type="462c0819:PsiDirectoryNode" />
+              <item name="app11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dj11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dj11" type="462c0819:PsiDirectoryNode" />
+              <item name="dj11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dj11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dj11" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dj11" type="Python.DjangoServer" factoryName="Django server">
+      <module name="dj11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="dj11.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f9e82b1-798b-42f6-866a-492444d41018" name="Default Changelist" comment="" />
+      <created>1607412984659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607412984659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1325215" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32974428" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1628533" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.21633238" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dj11/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://864fcf4c-f634-41c1-8309-4c2c05799897/schema/main/table/app11_studentmodel">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/django/db/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5780">
+          <caret line="403" column="6" selection-start-line="403" selection-start-column="6" selection-end-line="403" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="37" column="75" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="37" selection-end-column="75" />
+          <folding>
+            <element signature="e#2806#36589#0" />
+            <element signature="e#36623#38389#0" />
+            <element signature="e#38420#40583#0" />
+            <element signature="e#40635#41099#0" />
+            <element signature="e#41133#42208#0" />
+            <element signature="e#42259#47453#0" />
+            <element signature="e#47492#53795#0" />
+            <element signature="e#53829#58088#0" />
+            <element signature="e#58123#59896#0" />
+            <element signature="e#59932#60696#0" />
+            <element signature="e#60731#62961#0" />
+            <element signature="e#62993#64083#0" />
+            <element signature="e#64117#67004#0" />
+            <element signature="e#67048#67408#0" />
+            <element signature="e#67444#68271#0" />
+            <element signature="e#68314#71034#0" />
+            <element signature="e#71079#72031#0" />
+            <element signature="e#72076#72703#0" />
+            <element signature="e#72786#73034#0" />
+            <element signature="e#73114#73355#0" />
+            <element signature="e#73440#73692#0" />
+            <element signature="e#73727#74837#0" />
+            <element signature="e#74883#74984#0" />
+            <element signature="e#75015#75815#0" />
+            <element signature="e#75866#80738#0" />
+            <element signature="e#80772#81459#0" />
+            <element signature="e#81492#83578#0" />
+            <element signature="e#83609#85235#0" />
+            <element signature="e#85264#86688#0" />
+            <element signature="e#86722#87759#0" />
+            <element signature="e#87839#87995#0" />
+            <element signature="e#88056#88218#0" />
+            <element signature="e#88283#88449#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app11/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" column="16" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="13" column="26" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dj11/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="e#628#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app11/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="15" column="81" lean-forward="true" selection-start-line="7" selection-end-line="15" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app11/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

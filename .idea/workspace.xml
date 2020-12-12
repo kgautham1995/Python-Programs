@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2401954-ac7c-41b8-b95b-514ed7cc8a9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Demo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj10/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj10/templates/add_course.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj10/templates/add_student.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj10/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj11/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj11/app11/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj11/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/dj12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj12/app12/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj12/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django projects/dj9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django projects/dj10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj10/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +65,7 @@
     <SUITE FILE_PATH="coverage/Python_Programs$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1603851787375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
     <SUITE FILE_PATH="coverage/Python_Programs$Hyrarchical_and_hybrid.coverage" NAME="Hyrarchical and hybrid Coverage Results" MODIFIED="1605880707832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programs$Google_search.coverage" NAME="Google_search Coverage Results" MODIFIED="1605428431618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$Demo2.coverage" NAME="Demo2 Coverage Results" MODIFIED="1607345054638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Demo2.coverage" NAME="Demo2 Coverage Results" MODIFIED="1607432724358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1605415548244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
     <SUITE FILE_PATH="coverage/Python_Programs$002.coverage" NAME="002 Coverage Results" MODIFIED="1606638769190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE3" />
     <SUITE FILE_PATH="coverage/Python_Programs$whileloops.coverage" NAME="whileloops Coverage Results" MODIFIED="1603274365531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -184,9 +192,9 @@
     <session id="-1791537536">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="91" />
+          <entry key="project.closed" value="96" />
           <entry key="project.open.time.0" value="7" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="6" />
@@ -195,7 +203,7 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="5" />
           <entry key="project.open.time.21" value="12" />
-          <entry key="project.open.time.22" value="5" />
+          <entry key="project.open.time.22" value="6" />
           <entry key="project.open.time.23" value="6" />
           <entry key="project.open.time.24" value="6" />
           <entry key="project.open.time.25" value="3" />
@@ -213,6 +221,7 @@
           <entry key="project.open.time.42" value="2" />
           <entry key="project.open.time.43" value="2" />
           <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.49" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.50" value="1" />
@@ -221,11 +230,11 @@
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="112" />
+          <entry key="project.opened" value="116" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -259,7 +268,7 @@
           <entry key="db" value="1" />
           <entry key="dummy" value="52" />
           <entry key="html" value="679" />
-          <entry key="py" value="29171" />
+          <entry key="py" value="29278" />
           <entry key="txt" value="195" />
         </counts>
       </usages-collector>
@@ -267,7 +276,7 @@
         <counts>
           <entry key="HTML" value="679" />
           <entry key="PLAIN_TEXT" value="248" />
-          <entry key="Python" value="29171" />
+          <entry key="Python" value="29278" />
         </counts>
       </usages-collector>
     </session>
@@ -277,12 +286,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Demo2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+            <state relative-caret-position="249">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
               <folding>
-                <marker date="1607344966081" expanded="true" signature="126:133" ph="..." />
-                <marker date="1607344966081" expanded="true" signature="377:440" ph="..." />
-                <marker date="1607344966081" expanded="true" signature="823:1205" ph="..." />
+                <marker date="1607432724327" expanded="true" signature="126:133" ph="..." />
+                <marker date="1607432724327" expanded="true" signature="377:440" ph="..." />
               </folding>
             </state>
           </provider>
@@ -371,11 +379,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="510" />
-    <option name="y" value="15" />
-    <option name="width" value="1040" />
-    <option name="height" value="690" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="713" />
+    <option name="width" value="734" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -397,7 +404,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -414,6 +420,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -421,7 +428,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="H:/DjangoParctice/Git/imh-Website-/imhbackend" />
+    <property name="last_opened_file_path" value="H:/Python Tutorials/Django 11am/Project19" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -598,12 +605,12 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16332377" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17191978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39030954" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41588157" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -876,12 +883,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        <state relative-caret-position="249">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
           <folding>
-            <marker date="1607344966081" expanded="true" signature="126:133" ph="..." />
-            <marker date="1607344966081" expanded="true" signature="377:440" ph="..." />
-            <marker date="1607344966081" expanded="true" signature="823:1205" ph="..." />
+            <marker date="1607432724327" expanded="true" signature="126:133" ph="..." />
+            <marker date="1607432724327" expanded="true" signature="377:440" ph="..." />
           </folding>
         </state>
       </provider>

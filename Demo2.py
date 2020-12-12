@@ -35,32 +35,34 @@
 # buy at z vars
 #
 # quantity also
+#
+# buying={ }
+# selling={ }
+# def buy():
+#     xprice= input("Enter the Price of the product")
+#     xqty= input("Enter the Qty of the product")
+#     buying.update({xprice:xqty})
+# def sell():
+#     yprice=input("Enter the price of the product")
+#     yqty=input("Enter the qty of the product")
+#     buying.update({yprice: yqty})
+# no=int(input("enter the no of buying or selling values"))
+# for x in range(no):
+#         buy()
+#         sell()
+# x = input("Enter the price of the product the buyer wants to buy at")
+#
+#
+# if buying.keys() in selling.keys():
+#     a=buying.get(x)
+#     b=selling.get(x)
+#     if a==b or a<=b:
+#         buying.pop(x)
+#     selling.x=selling.x-b
 
-buying={ }
-selling={ }
-def buy():
-    xprice= input("Enter the Price of the product")
-    xqty= input("Enter the Qty of the product")
-    buying.update({xprice:xqty})
-def sell():
-    yprice=input("Enter the price of the product")
-    yqty=input("Enter the qty of the product")
-    buying.update({yprice: yqty})
-no=int(input("enter the no of buying or selling values"))
-for x in range(no):
-        buy()
-        sell()
-x = input("Enter the price of the product the buyer wants to buy at")
-
-
-if buying.keys() in selling.keys():
-    a=buying.get(x)
-    b=selling.get(x)
-    if a==b or a<=b:
-        buying.pop(x)
-    selling.x=selling.x-b
-
-
+from validate_email import validate_email
+is_valid = validate_email('kgautham1995@gmail.com')
+print(is_valid)
 
 
 

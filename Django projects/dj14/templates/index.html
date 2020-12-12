@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>
+        Programming with Gautam
+    </title>
+</head>
+<body align="center">
+<form action="{% url 'check' %}" >
+    <input type="password" placeholder="Password" name="t1">
+<button type="submit">
+    GET EXAMPLE
+</button>
+</form>
+<form action="{% url 'check' %}" method="post">
+    {% csrf_token %}
+    <input type="password" placeholder="Password" name="t2">
+<button type="submit">
+    POST EXAMPLE
+</button>
+</form>
+</body>
+</html>
