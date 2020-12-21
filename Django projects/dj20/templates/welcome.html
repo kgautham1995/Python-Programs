@@ -1,0 +1,13 @@
+
+{% extends 'common.html' %}
+
+{% block menu %}
+    <h1>Menu</h1>
+{% endblock %}
+
+{% block content %}
+    <h1>Welcome Mr/Miss : {{ data.name }}</h1>
+    <h1>Salary: {{ data.salary }}</h1>
+    <h1>Designation : {{ data.designation }}</h1>
+    <h1>Contact No : {{ data.contactno }}</h1>
+{% endblock %}

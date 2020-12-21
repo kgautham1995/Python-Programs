@@ -1,0 +1,13 @@
+<p align="center">
+    {% for x in nos %}
+        {{ x }}
+    {% if forloop.counter|divisibleby:4 %}
+        <br>
+    {% endif %}
+{% endfor %}
+</p>
+<h1>{% now "SHORT_DATETIME_FORMAT" %}</h1>
+<h1>{% now "SHORT_DATE_FORMAT" %}</h1>
+<h1>{% now "DATETIME_FORMAT" %}</h1>
+<h1>{% now "DATE_FORMAT" %}</h1>
+<h1>{% now "TIM_FORMAT" %}</h1>

@@ -1,0 +1,44 @@
+
+{% extends 'common.html' %}
+
+{% block menu %}
+    {% include 'main_menu.html' %}
+{% endblock %}
+
+{% block content %}
+    <table align="center" border="2">
+        <tr>
+            <th>
+                <div style="width:500px;height: 400px;background-color: burlywood;color: seashell;align-content: center ">
+                    <form method="post">
+                        {% csrf_token %}
+                             {{ form.as_p }}
+                              <button type="submit">Register</button>
+                    </form>
+                </div>
+            </th>
+            <th>
+                <div style="width:500px;height: 400px;background-color: seashell;color: burlywood;align-content: center ">
+
+                    <form action="{% url 'validate' %}" method="post">
+    {% csrf_token %}
+<table align="center" border="2">
+    <tr>
+        <th colspan="2"> Employee Login Page</th>
+    </tr>
+        <tr><th><input type="number" placeholder="Contact No" name="username"></th></tr>
+        <tr><th><input type="password" placeholder="Password" name="password"></th></tr>
+    <tr>
+        <th>
+            <button type="submit">Login</button>
+        </th>
+    </tr>
+</table>
+</form>
+
+
+                </div>
+            </th>
+        </tr>
+    </table>
+{% endblock %}

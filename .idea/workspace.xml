@@ -2,22 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2401954-ac7c-41b8-b95b-514ed7cc8a9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Django projects/dj11/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj11/app11/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj11/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/dj12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj12/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj12/app12/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj12/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj16/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj16/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj17/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj17/app17/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj17/templates/add_employee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj18/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj18/app18/notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj19/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj19/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj20/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj20/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj20/app20/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj20/templates/common.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj20/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj20/templates/main_menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj20/templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj21/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj21/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/dj22/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automation tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speechassistant.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django projects/dj10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django projects/dj11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django projects/dj15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj15/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,98 +36,103 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python_Programs$demo10.coverage" NAME="demo10 Coverage Results" MODIFIED="1601022299917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$CCS.coverage" NAME="CCS Coverage Results" MODIFIED="1602310593369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$demo9.coverage" NAME="demo9 Coverage Results" MODIFIED="1601021884379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$demo6.coverage" NAME="demo6 Coverage Results" MODIFIED="1600863016043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$0010.coverage" NAME="0010 Coverage Results" MODIFIED="1605427843107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programs$Qrcode.coverage" NAME="Qrcode Coverage Results" MODIFIED="1600401386273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$xx.coverage" NAME="xx Coverage Results" MODIFIED="1603870083647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
     <SUITE FILE_PATH="coverage/Python_Programs$nested2.coverage" NAME="nested2 Coverage Results" MODIFIED="1601465849297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lambda Functions" />
     <SUITE FILE_PATH="coverage/Python_Programs$proj.coverage" NAME="proj Coverage Results" MODIFIED="1600433266166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$Relational_Operators.coverage" NAME="Relational Operators Coverage Results" MODIFIED="1601639871000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
     <SUITE FILE_PATH="coverage/Python_Programs$map.coverage" NAME="map Coverage Results" MODIFIED="1601192622277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$msg.coverage" NAME="msg Coverage Results" MODIFIED="1601714372310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$speechassistant.coverage" NAME="speechassistant Coverage Results" MODIFIED="1608465302839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$cric.coverage" NAME="cric Coverage Results" MODIFIED="1602419226881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$002__1_.coverage" NAME="002 (1) Coverage Results" MODIFIED="1604393760426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
-    <SUITE FILE_PATH="coverage/Python_Programs$003.coverage" NAME="003 Coverage Results" MODIFIED="1607342259215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE3" />
-    <SUITE FILE_PATH="coverage/Python_Programs$global_and_local.coverage" NAME="global and local Coverage Results" MODIFIED="1600861413522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pillow Package" />
-    <SUITE FILE_PATH="coverage/Python_Programs$ccs2.coverage" NAME="ccs2 Coverage Results" MODIFIED="1602586951565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$functions.coverage" NAME="functions Coverage Results" MODIFIED="1600773395227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$Destructor.coverage" NAME="Destructor Coverage Results" MODIFIED="1605497819391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
-    <SUITE FILE_PATH="coverage/Python_Programs$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1603813097852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
     <SUITE FILE_PATH="coverage/Python_Programs$Constructors1.coverage" NAME="Constructors1 Coverage Results" MODIFIED="1605249741396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programs$multiple.coverage" NAME="multiple Coverage Results" MODIFIED="1605771260939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programs$Nestedforloops.coverage" NAME="Nestedforloops Coverage Results" MODIFIED="1603089351714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$CCS1.coverage" NAME="CCS1 Coverage Results" MODIFIED="1602501278339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$Satic_Variables_example.coverage" NAME="Satic Variables example Coverage Results" MODIFIED="1604919239667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
-    <SUITE FILE_PATH="coverage/Python_Programs$demo8.coverage" NAME="demo8 Coverage Results" MODIFIED="1600946828043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$short.coverage" NAME="short Coverage Results" MODIFIED="1601718624999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$zz.coverage" NAME="zz Coverage Results" MODIFIED="1604022845159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$img.coverage" NAME="img Coverage Results" MODIFIED="1600086869935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pillow Package" />
-    <SUITE FILE_PATH="coverage/Python_Programs$speed.coverage" NAME="speed Coverage Results" MODIFIED="1603088919292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$Single_inheritance.coverage" NAME="Single_inheritance Coverage Results" MODIFIED="1605666676811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programs$while.coverage" NAME="while Coverage Results" MODIFIED="1603204165668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$function2.coverage" NAME="function2 Coverage Results" MODIFIED="1600777657235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$demo15.coverage" NAME="demo15 Coverage Results" MODIFIED="1605959839204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
-    <SUITE FILE_PATH="coverage/Python_Programs$qrcode1.coverage" NAME="qrcode1 Coverage Results" MODIFIED="1600401791597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$turtlediagram.coverage" NAME="turtlediagram Coverage Results" MODIFIED="1603446940084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1603851787375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
-    <SUITE FILE_PATH="coverage/Python_Programs$Hyrarchical_and_hybrid.coverage" NAME="Hyrarchical and hybrid Coverage Results" MODIFIED="1605880707832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programs$Google_search.coverage" NAME="Google_search Coverage Results" MODIFIED="1605428431618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$Demo2.coverage" NAME="Demo2 Coverage Results" MODIFIED="1607432724358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1605415548244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
-    <SUITE FILE_PATH="coverage/Python_Programs$002.coverage" NAME="002 Coverage Results" MODIFIED="1606638769190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE3" />
-    <SUITE FILE_PATH="coverage/Python_Programs$whileloops.coverage" NAME="whileloops Coverage Results" MODIFIED="1603274365531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$ytdownloader.coverage" NAME="ytdownloader Coverage Results" MODIFIED="1602312612988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$datatypes.coverage" NAME="datatypes Coverage Results" MODIFIED="1600352997110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$membership.coverage" NAME="membership Coverage Results" MODIFIED="1602054669615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
     <SUITE FILE_PATH="coverage/Python_Programs$Multilevel.coverage" NAME="Multilevel Coverage Results" MODIFIED="1605770951632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
-    <SUITE FILE_PATH="coverage/Python_Programs$fb.coverage" NAME="fb Coverage Results" MODIFIED="1601186029584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$001__1_.coverage" NAME="001 (1) Coverage Results" MODIFIED="1604833040139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
-    <SUITE FILE_PATH="coverage/Python_Programs$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1603852407619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
     <SUITE FILE_PATH="coverage/Python_Programs$insertdata.coverage" NAME="insertdata Coverage Results" MODIFIED="1606130875696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE DB" />
     <SUITE FILE_PATH="coverage/Python_Programs$QRcode.coverage" NAME="QRcode Coverage Results" MODIFIED="1599920499889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$demo7.coverage" NAME="demo7 Coverage Results" MODIFIED="1601465647800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
-    <SUITE FILE_PATH="coverage/Python_Programs$examples.coverage" NAME="examples Coverage Results" MODIFIED="1604211014216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$instance.coverage" NAME="instance Coverage Results" MODIFIED="1605006958186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programs$spambot.coverage" NAME="spambot Coverage Results" MODIFIED="1605960913198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
     <SUITE FILE_PATH="coverage/Python_Programs$bitwise.coverage" NAME="bitwise Coverage Results" MODIFIED="1602248579073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
     <SUITE FILE_PATH="coverage/Python_Programs$whileelse.coverage" NAME="whileelse Coverage Results" MODIFIED="1603439009167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$Demo1.coverage" NAME="Demo1 Coverage Results" MODIFIED="1606126998552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE DB" />
     <SUITE FILE_PATH="coverage/Python_Programs$Singlei.coverage" NAME="Singlei Coverage Results" MODIFIED="1605665753221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
-    <SUITE FILE_PATH="coverage/Python_Programs$Methods.coverage" NAME="Methods Coverage Results" MODIFIED="1604833847291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programs$demo11.coverage" NAME="demo11 Coverage Results" MODIFIED="1601106463555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$forlopswithstring.coverage" NAME="forlopswithstring Coverage Results" MODIFIED="1603094498050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$Nestedforloops1.coverage" NAME="Nestedforloops1 Coverage Results" MODIFIED="1603090721126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1602592012141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$identity.coverage" NAME="identity Coverage Results" MODIFIED="1602158424117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
     <SUITE FILE_PATH="coverage/Python_Programs$demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1601354854375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lambda Functions" />
     <SUITE FILE_PATH="coverage/Python_Programs$arthemeticoperators.coverage" NAME="arthemeticoperators Coverage Results" MODIFIED="1601607467449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
-    <SUITE FILE_PATH="coverage/Python_Programs$nested_functions.coverage" NAME="nested functions Coverage Results" MODIFIED="1601465490158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lambda Functions" />
-    <SUITE FILE_PATH="coverage/Python_Programs$sendmail.coverage" NAME="sendmail Coverage Results" MODIFIED="1604833907337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
     <SUITE FILE_PATH="coverage/Python_Programs$employeedb.coverage" NAME="employeedb Coverage Results" MODIFIED="1606130707037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE DB" />
     <SUITE FILE_PATH="coverage/Python_Programs$for_loops.coverage" NAME="for loops Coverage Results" MODIFIED="1602759531510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$001.coverage" NAME="001 Coverage Results" MODIFIED="1606638311816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE3" />
-    <SUITE FILE_PATH="coverage/Python_Programs$email__1_.coverage" NAME="email (1) Coverage Results" MODIFIED="1604833965947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
     <SUITE FILE_PATH="coverage/Python_Programs$constructor.coverage" NAME="constructor Coverage Results" MODIFIED="1605248837977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Forloops1.coverage" NAME="Forloops1 Coverage Results" MODIFIED="1602769450334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$variables1.coverage" NAME="variables1 Coverage Results" MODIFIED="1600693785991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Logicaloperators.coverage" NAME="Logicaloperators Coverage Results" MODIFIED="1601986049484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/Python_Programs$maps.coverage" NAME="maps Coverage Results" MODIFIED="1601193358333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maps" />
+    <SUITE FILE_PATH="coverage/Python_Programs$qrcode.coverage" NAME="qrcode Coverage Results" MODIFIED="1600401299189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Class_Example.coverage" NAME="Class Example Coverage Results" MODIFIED="1605094445066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/Python_Programs$wifipwd.coverage" NAME="wifipwd Coverage Results" MODIFIED="1603446349544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$abc.coverage" NAME="abc Coverage Results" MODIFIED="1603088899937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$demo10.coverage" NAME="demo10 Coverage Results" MODIFIED="1601022299917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$CCS.coverage" NAME="CCS Coverage Results" MODIFIED="1602310593369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$demo9.coverage" NAME="demo9 Coverage Results" MODIFIED="1601021884379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$automation_tool.coverage" NAME="automation tool Coverage Results" MODIFIED="1608466439600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Relational_Operators.coverage" NAME="Relational Operators Coverage Results" MODIFIED="1601639871000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/Python_Programs$clock.coverage" NAME="clock Coverage Results" MODIFIED="1607865400217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analogue clock" />
+    <SUITE FILE_PATH="coverage/Python_Programs$003.coverage" NAME="003 Coverage Results" MODIFIED="1607342259215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE3" />
+    <SUITE FILE_PATH="coverage/Python_Programs$global_and_local.coverage" NAME="global and local Coverage Results" MODIFIED="1600861413522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pillow Package" />
+    <SUITE FILE_PATH="coverage/Python_Programs$ccs2.coverage" NAME="ccs2 Coverage Results" MODIFIED="1602586951565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$functions.coverage" NAME="functions Coverage Results" MODIFIED="1600773395227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1603813097852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
+    <SUITE FILE_PATH="coverage/Python_Programs$demo8.coverage" NAME="demo8 Coverage Results" MODIFIED="1600946828043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$zz.coverage" NAME="zz Coverage Results" MODIFIED="1604022845159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$speed.coverage" NAME="speed Coverage Results" MODIFIED="1603088919292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$demo15.coverage" NAME="demo15 Coverage Results" MODIFIED="1605959839204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/Python_Programs$qrcode1.coverage" NAME="qrcode1 Coverage Results" MODIFIED="1600401791597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1603851787375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Hyrarchical_and_hybrid.coverage" NAME="Hyrarchical and hybrid Coverage Results" MODIFIED="1605880707832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Demo2.coverage" NAME="Demo2 Coverage Results" MODIFIED="1607432724358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$002.coverage" NAME="002 Coverage Results" MODIFIED="1606638769190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE3" />
+    <SUITE FILE_PATH="coverage/Python_Programs$whileloops.coverage" NAME="whileloops Coverage Results" MODIFIED="1603274365531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$clock__1_.coverage" NAME="clock (1) Coverage Results" MODIFIED="1607860357006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/DjangoParctice/Git/Analogue clock" />
+    <SUITE FILE_PATH="coverage/Python_Programs$datatypes.coverage" NAME="datatypes Coverage Results" MODIFIED="1600352997110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$membership.coverage" NAME="membership Coverage Results" MODIFIED="1602054669615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/Python_Programs$fb.coverage" NAME="fb Coverage Results" MODIFIED="1601186029584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1603852407619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
+    <SUITE FILE_PATH="coverage/Python_Programs$examples.coverage" NAME="examples Coverage Results" MODIFIED="1604211014216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Methods.coverage" NAME="Methods Coverage Results" MODIFIED="1604833847291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Nestedforloops1.coverage" NAME="Nestedforloops1 Coverage Results" MODIFIED="1603090721126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1602592012141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$identity.coverage" NAME="identity Coverage Results" MODIFIED="1602158424117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/Python_Programs$main.coverage" NAME="main Coverage Results" MODIFIED="1608464409370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/romantic-alexa-main" />
+    <SUITE FILE_PATH="coverage/Python_Programs$nested_functions.coverage" NAME="nested functions Coverage Results" MODIFIED="1601465490158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lambda Functions" />
+    <SUITE FILE_PATH="coverage/Python_Programs$sendmail.coverage" NAME="sendmail Coverage Results" MODIFIED="1604833907337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
+    <SUITE FILE_PATH="coverage/Python_Programs$email__1_.coverage" NAME="email (1) Coverage Results" MODIFIED="1604833965947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
     <SUITE FILE_PATH="coverage/Python_Programs$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1606128300176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE DB" />
     <SUITE FILE_PATH="coverage/Python_Programs$calender.coverage" NAME="calender Coverage Results" MODIFIED="1600600546016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pillow Package" />
     <SUITE FILE_PATH="coverage/Python_Programs$text_to_speech.coverage" NAME="text to speech Coverage Results" MODIFIED="1604747123327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$email.coverage" NAME="email Coverage Results" MODIFIED="1604833871186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
     <SUITE FILE_PATH="coverage/Python_Programs$sendmail1.coverage" NAME="sendmail1 Coverage Results" MODIFIED="1604834419785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
     <SUITE FILE_PATH="coverage/Python_Programs$shothandassignment.coverage" NAME="shothandassignment Coverage Results" MODIFIED="1601892919559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
-    <SUITE FILE_PATH="coverage/Python_Programs$Forloops1.coverage" NAME="Forloops1 Coverage Results" MODIFIED="1602769450334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$demo.coverage" NAME="demo Coverage Results" MODIFIED="1604481822988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
-    <SUITE FILE_PATH="coverage/Python_Programs$variables1.coverage" NAME="variables1 Coverage Results" MODIFIED="1600693785991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$Logicaloperators.coverage" NAME="Logicaloperators Coverage Results" MODIFIED="1601986049484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
     <SUITE FILE_PATH="coverage/Python_Programs$forelse.coverage" NAME="forelse Coverage Results" MODIFIED="1603438930226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$maps.coverage" NAME="maps Coverage Results" MODIFIED="1601193358333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maps" />
-    <SUITE FILE_PATH="coverage/Python_Programs$qrcode.coverage" NAME="qrcode Coverage Results" MODIFIED="1600401299189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$Class_Example.coverage" NAME="Class Example Coverage Results" MODIFIED="1605094445066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
-    <SUITE FILE_PATH="coverage/Python_Programs$wifipwd.coverage" NAME="wifipwd Coverage Results" MODIFIED="1603446349544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$variable2.coverage" NAME="variable2 Coverage Results" MODIFIED="1600773494093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$abc.coverage" NAME="abc Coverage Results" MODIFIED="1603088899937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -192,11 +207,11 @@
     <session id="-1791537536">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="96" />
+          <entry key="project.closed" value="101" />
           <entry key="project.open.time.0" value="7" />
-          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.17" value="6" />
           <entry key="project.open.time.18" value="6" />
           <entry key="project.open.time.19" value="2" />
@@ -207,13 +222,14 @@
           <entry key="project.open.time.23" value="6" />
           <entry key="project.open.time.24" value="6" />
           <entry key="project.open.time.25" value="3" />
-          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.26" value="4" />
           <entry key="project.open.time.27" value="2" />
-          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.29" value="4" />
           <entry key="project.open.time.30" value="3" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="3" />
+          <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.39" value="1" />
@@ -234,7 +250,7 @@
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="116" />
+          <entry key="project.opened" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -243,10 +259,10 @@
           <entry key="employee" value="2" />
           <entry key="employee1" value="1" />
           <entry key="html" value="4" />
-          <entry key="jpg" value="13" />
+          <entry key="jpg" value="14" />
           <entry key="ks" value="1" />
           <entry key="png" value="9" />
-          <entry key="py" value="229" />
+          <entry key="py" value="240" />
           <entry key="sql" value="6" />
           <entry key="sqlite_master" value="2" />
           <entry key="txt" value="4" />
@@ -256,9 +272,9 @@
         <counts>
           <entry key="Database Element" value="5" />
           <entry key="HTML" value="4" />
-          <entry key="Image" value="22" />
+          <entry key="Image" value="23" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="229" />
+          <entry key="Python" value="240" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="6" />
         </counts>
@@ -268,7 +284,7 @@
           <entry key="db" value="1" />
           <entry key="dummy" value="52" />
           <entry key="html" value="679" />
-          <entry key="py" value="29278" />
+          <entry key="py" value="31101" />
           <entry key="txt" value="195" />
         </counts>
       </usages-collector>
@@ -276,7 +292,7 @@
         <counts>
           <entry key="HTML" value="679" />
           <entry key="PLAIN_TEXT" value="248" />
-          <entry key="Python" value="29278" />
+          <entry key="Python" value="31101" />
         </counts>
       </usages-collector>
     </session>
@@ -284,13 +300,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Demo2.py">
+        <entry file="file://$PROJECT_DIR$/automation tool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="136">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding>
-                <marker date="1607432724327" expanded="true" signature="126:133" ph="..." />
-                <marker date="1607432724327" expanded="true" signature="377:440" ph="..." />
+                <element signature="e#0#16#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -319,11 +334,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/whileelse.py" />
-        <option value="$PROJECT_DIR$/wifipwd.py" />
-        <option value="$PROJECT_DIR$/turtlediagram.py" />
-        <option value="$PROJECT_DIR$/all/003.py" />
-        <option value="$PROJECT_DIR$/File Handling/demo1.py" />
         <option value="$PROJECT_DIR$/File Handling/demo2.py" />
         <option value="$PROJECT_DIR$/File Handling/demo3.py" />
         <option value="$PROJECT_DIR$/File Handling/abc.txt" />
@@ -370,6 +380,11 @@
         <option value="$PROJECT_DIR$/123.txt" />
         <option value="$PROJECT_DIR$/demo.html" />
         <option value="$PROJECT_DIR$/Demo2.py" />
+        <option value="H:/DjangoParctice/Git/Analogue clock/clock.py" />
+        <option value="$PROJECT_DIR$/Analogue clock/clock.py" />
+        <option value="$USER_HOME$/Downloads/romantic-alexa-main/main.py" />
+        <option value="$PROJECT_DIR$/speechassistant.py" />
+        <option value="$PROJECT_DIR$/automation tool.py" />
       </list>
     </option>
   </component>
@@ -380,9 +395,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="713" />
-    <option name="width" value="734" />
-    <option name="height" value="867" />
+    <option name="x" value="120" />
+    <option name="y" value="25" />
+    <option name="width" value="1040" />
+    <option name="height" value="690" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -404,6 +420,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -411,16 +428,10 @@
               <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="SQLITE3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -428,7 +439,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="H:/Python Tutorials/Django 11am/Project19" />
+    <property name="last_opened_file_path" value="H:/DjangoParctice/Git/imh-Website-/imhbackend" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -451,74 +462,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Demo2">
-    <configuration name="001" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQLITE3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLITE3/001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="002" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQLITE3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLITE3/002.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="003" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQLITE3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLITE3/003.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.automation tool">
+    <configuration name="automation tool" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -531,7 +476,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/automation tool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -540,7 +485,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="insertdata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="clock (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -548,12 +493,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQLITE DB" />
+      <option name="WORKING_DIRECTORY" value="H:/DjangoParctice/Git/Analogue clock" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="H:/DjangoParctice/Git/Analogue clock/clock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Analogue clock" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLITE DB/insertdata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analogue clock/clock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/romantic-alexa-main" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/romantic-alexa-main/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="speechassistant" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/speechassistant.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -563,19 +574,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.insertdata" />
-      <item itemvalue="Python.001" />
-      <item itemvalue="Python.002" />
-      <item itemvalue="Python.003" />
-      <item itemvalue="Python.Demo2" />
+      <item itemvalue="Python.clock" />
+      <item itemvalue="Python.clock (1)" />
+      <item itemvalue="Python.speechassistant" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.automation tool" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Demo2" />
-        <item itemvalue="Python.003" />
-        <item itemvalue="Python.002" />
-        <item itemvalue="Python.001" />
-        <item itemvalue="Python.insertdata" />
+        <item itemvalue="Python.automation tool" />
+        <item itemvalue="Python.speechassistant" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.clock" />
+        <item itemvalue="Python.clock (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -605,12 +616,12 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17191978" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18553008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41588157" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49394348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -628,6 +639,30 @@
       <window_info anchor="right" id="SciView" order="3" weight="0.3295129" />
       <window_info anchor="right" id="Database" order="4" weight="0.3116046" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17406876" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22880216" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32974428" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32974428" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3295129" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3116046" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -639,50 +674,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/all/variables1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/demo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text to speech.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all/sendmail1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/Class Example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/googlesearch/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="210" column="61" selection-start-line="210" selection-start-column="61" selection-end-line="210" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/0010.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/all/Dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -708,13 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Google_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -832,13 +816,6 @@
     <entry file="file://$PROJECT_DIR$/SQLITE DB/employeedb.py" />
     <entry file="file://$PROJECT_DIR$/SQLITE DB/insertdata.py" />
     <entry file="das://2f50ba1f-3695-472f-ab71-f874ade45746/schema/main/table/employee1" />
-    <entry file="file://$PROJECT_DIR$/Demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SQLITE3/001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -881,13 +858,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Analogue clock/clock.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://H:/DjangoParctice/Git/Analogue clock/clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/romantic-alexa-main/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="12" lean-forward="true" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Demo2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/speechassistant.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analogue clock/clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automation tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
-            <marker date="1607432724327" expanded="true" signature="126:133" ph="..." />
-            <marker date="1607432724327" expanded="true" signature="377:440" ph="..." />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
