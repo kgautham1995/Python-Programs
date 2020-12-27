@@ -2,29 +2,212 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01358b15-d5e4-4322-a5b5-3660a310cb13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../dj11/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj11/app11/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj11/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/.idea/dj12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/app12/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/app12/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/dj12/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/templates/add_city.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/templates/add_country.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/templates/add_state.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj12/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj14/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dj14/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dj10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dj10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/quiz/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/quiz/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/quiz/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/quiz/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/quiz/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/quiz/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/aecInstructions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/calc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/calclayout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/jcarousel.connected-carousels.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/jplayer.blue.monday.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/jquery-ui-1.10.4.custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/jquery.alerts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/jquery.freetrans.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/jquery.jqzoom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/jquery.ui.rotatable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/keyboard_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/mock_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/nanoscroller.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/popupwindow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/scratchpad.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/screen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/Exam/thickbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/chocolat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/exam1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/exams.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/font-awesome.min (2).css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/new/COMMON.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/new/nav-rs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/new/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/new/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/report/roboto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/report/screens.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/report/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/report/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/rib.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/slide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/startE.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/startexam.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/css/templatemo-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/askexpert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/askexpertactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/askexperthover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/blinking_new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/bookmarkactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/bookmarkhover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/chat-icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/correct.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/homeactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/homehover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/logout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/negative.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/news.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/newsactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/offerhvr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/offers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/package.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/packageactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/packagehover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/profile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/profileactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/profilehover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/report.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/reportactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/reporthover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/skip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/test.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/testactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/image/image1/testhover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/aaf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/g9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/mid-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/t1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/t2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/t3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/images/t4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/arial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/bars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/cuf_run.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/cufon-yui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jquery-2.1.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jquery.chocolat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jquery.countup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jquery.filterizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jquery.flexslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jquery.parallax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/MediaStreamRecorder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/active-line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/bean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jcarousel.connected-carousels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jquery-1.8.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jquery-ui-1.10.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jquery.actual.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jquery.caret.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jquery.corner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jquery.jcarousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jquery.jqzoom-core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jquery.nanoscroller.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jquery.ui.rotatable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jwplayer.html5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/jwplayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/matchbrackets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/popupwindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/restrictedTyping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/thickbox-compressed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/typing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/jsstartE/virtual_keyboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/new/adsbygoogle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/new/analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/new/jquery-1.8.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/new/osd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/new/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/highChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/image-upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/jquery.scrollTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/json3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/jsonGetContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/jwplayer.html5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/jwplayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/otherscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/pop-upall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/student.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/studentTestReport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/report/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/result/arial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/smoothscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/student/static/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/REPORT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/admin/base_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/examopt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/exams1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/profile_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/profile_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/reg_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/result_analysis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/startE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oes/templates/startexam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dj23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dj23/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,20 +288,22 @@
     <session id="-1525725678">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app12/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="136">
               <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
@@ -153,7 +338,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/add_city.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -193,9 +378,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="713" />
-    <option name="width" value="734" />
-    <option name="height" value="867" />
+    <option name="x" value="-6" />
+    <option name="width" value="1372" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -203,38 +388,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="dj12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dj12" type="462c0819:PsiDirectoryNode" />
+              <item name="dj13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dj13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="dj12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dj12" type="462c0819:PsiDirectoryNode" />
-              <item name="app12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dj12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dj12" type="462c0819:PsiDirectoryNode" />
-              <item name="dj12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dj12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dj12" type="462c0819:PsiDirectoryNode" />
+              <item name="dj13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dj13" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -327,8 +503,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12750717" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13180515" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -349,7 +526,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.3295129" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295129" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,9 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#302#311#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -376,7 +550,7 @@
     <entry file="das://dbb6becc-f090-4005-b709-337e650ab136/schema/main/table/app12_studentmodel" />
     <entry file="file://$PROJECT_DIR$/app12/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="136">
           <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           <folding>
             <element signature="e#0#44#0" expanded="true" />

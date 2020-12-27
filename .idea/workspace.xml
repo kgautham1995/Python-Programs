@@ -2,32 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2401954-ac7c-41b8-b95b-514ed7cc8a9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Django projects/dj16/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj16/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj17/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj17/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj17/app17/form.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj17/templates/add_employee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj18/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj18/app18/notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj19/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj19/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj20/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj20/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj20/app20/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj20/templates/common.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj20/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj20/templates/main_menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj20/templates/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj21/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj21/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj22/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django projects/dj22/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automation tool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/speechassistant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/quiz/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/quiz/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/quiz/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/quiz/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/quiz/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/quiz/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/askexpert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/askexpertactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/askexperthover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/blinking_new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/bookmarkactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/bookmarkhover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/chat-icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/correct.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/homeactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/homehover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/logout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/negative.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/news.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/newsactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/offerhvr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/offers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/package.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/packageactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/packagehover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/profile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/profileactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/profilehover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/report.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/reportactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/reporthover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/skip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/test.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/testactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/image/image1/testhover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/aaf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/student/static/images/g9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/REPORT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/admin/base_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/examopt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/exams1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/profile_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/profile_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/reg_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/result_analysis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/startE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django projects/oes/templates/startexam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/flask1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/flask2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/flask3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/flask4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/templates/demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mp3 Player.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django projects/dj11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django projects/dj15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django projects/dj13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django projects/dj23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django projects/dj23/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +162,7 @@
     <SUITE FILE_PATH="coverage/Python_Programs$clock.coverage" NAME="clock Coverage Results" MODIFIED="1607865400217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analogue clock" />
     <SUITE FILE_PATH="coverage/Python_Programs$003.coverage" NAME="003 Coverage Results" MODIFIED="1607342259215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE3" />
     <SUITE FILE_PATH="coverage/Python_Programs$global_and_local.coverage" NAME="global and local Coverage Results" MODIFIED="1600861413522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pillow Package" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Mp3_Player.coverage" NAME="Mp3 Player Coverage Results" MODIFIED="1609069571921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$ccs2.coverage" NAME="ccs2 Coverage Results" MODIFIED="1602586951565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$functions.coverage" NAME="functions Coverage Results" MODIFIED="1600773395227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1603813097852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
@@ -127,8 +193,8 @@
     <SUITE FILE_PATH="coverage/Python_Programs$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1606128300176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLITE DB" />
     <SUITE FILE_PATH="coverage/Python_Programs$calender.coverage" NAME="calender Coverage Results" MODIFIED="1600600546016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pillow Package" />
     <SUITE FILE_PATH="coverage/Python_Programs$text_to_speech.coverage" NAME="text to speech Coverage Results" MODIFIED="1604747123327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programs$email.coverage" NAME="email Coverage Results" MODIFIED="1604833871186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
     <SUITE FILE_PATH="coverage/Python_Programs$sendmail1.coverage" NAME="sendmail1 Coverage Results" MODIFIED="1604834419785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all" />
+    <SUITE FILE_PATH="coverage/Python_Programs$email.coverage" NAME="email Coverage Results" MODIFIED="1609068992210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Programs$shothandassignment.coverage" NAME="shothandassignment Coverage Results" MODIFIED="1601892919559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
     <SUITE FILE_PATH="coverage/Python_Programs$demo.coverage" NAME="demo Coverage Results" MODIFIED="1604481822988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programs$forelse.coverage" NAME="forelse Coverage Results" MODIFIED="1603438930226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -226,6 +292,7 @@
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.29" value="4" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="3" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="3" />
@@ -250,7 +317,7 @@
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="122" />
+          <entry key="project.opened" value="123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -262,7 +329,7 @@
           <entry key="jpg" value="14" />
           <entry key="ks" value="1" />
           <entry key="png" value="9" />
-          <entry key="py" value="240" />
+          <entry key="py" value="243" />
           <entry key="sql" value="6" />
           <entry key="sqlite_master" value="2" />
           <entry key="txt" value="4" />
@@ -274,7 +341,7 @@
           <entry key="HTML" value="4" />
           <entry key="Image" value="23" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="240" />
+          <entry key="Python" value="243" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="6" />
         </counts>
@@ -282,17 +349,17 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="db" value="1" />
-          <entry key="dummy" value="52" />
+          <entry key="dummy" value="62" />
           <entry key="html" value="679" />
-          <entry key="py" value="31101" />
+          <entry key="py" value="31119" />
           <entry key="txt" value="195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="679" />
-          <entry key="PLAIN_TEXT" value="248" />
-          <entry key="Python" value="31101" />
+          <entry key="PLAIN_TEXT" value="258" />
+          <entry key="Python" value="31119" />
         </counts>
       </usages-collector>
     </session>
@@ -300,12 +367,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/automation tool.py">
+        <entry file="file://$PROJECT_DIR$/Mp3 Player.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="168">
+              <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
               <folding>
-                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -334,7 +401,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/File Handling/demo2.py" />
         <option value="$PROJECT_DIR$/File Handling/demo3.py" />
         <option value="$PROJECT_DIR$/File Handling/abc.txt" />
         <option value="$PROJECT_DIR$/File Handling/demo4.py" />
@@ -385,6 +451,7 @@
         <option value="$USER_HOME$/Downloads/romantic-alexa-main/main.py" />
         <option value="$PROJECT_DIR$/speechassistant.py" />
         <option value="$PROJECT_DIR$/automation tool.py" />
+        <option value="$PROJECT_DIR$/email.py" />
       </list>
     </option>
   </component>
@@ -462,7 +529,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.automation tool">
+  <component name="RunManager" selected="Python.Mp3 Player">
+    <configuration name="Mp3 Player" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mp3 Player.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="automation tool" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -485,7 +574,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="clock (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="email" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -493,34 +582,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="H:/DjangoParctice/Git/Analogue clock" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="H:/DjangoParctice/Git/Analogue clock/clock.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="clock" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Analogue clock" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analogue clock/clock.py" />
+      <option name="SCRIPT_NAME" value="D:\Python Programs\Mp3 Player.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -574,19 +641,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.clock" />
-      <item itemvalue="Python.clock (1)" />
       <item itemvalue="Python.speechassistant" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.automation tool" />
+      <item itemvalue="Python.email" />
+      <item itemvalue="Python.Mp3 Player" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Mp3 Player" />
+        <item itemvalue="Python.email" />
         <item itemvalue="Python.automation tool" />
         <item itemvalue="Python.speechassistant" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.clock" />
-        <item itemvalue="Python.clock (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -614,14 +681,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18553008" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09885387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49394348" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49394348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -674,27 +740,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/all/Dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/Constructors1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/instance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OOPS/constructor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -914,10 +959,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/automation tool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="306">
+          <caret line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/smtplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="233" column="16" selection-start-line="233" selection-start-column="16" selection-end-line="233" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="1304" column="8" selection-start-line="1304" selection-start-column="8" selection-end-line="1304" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mp3 Player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
